@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\taketestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\taketestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\voidpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\voidpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\taketestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\taketestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|c:\\users\\simaz\\source\\repos\\generatortest2\\generatortest2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B4BA6C4-380A-44DC-8DEC-9D6B087DB9AE}|GeneratorTest2\\GeneratorTest2.csproj|solutionrelative:generatortest2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 222,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GeneratorTest2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\MainWindow.xaml",
+              "RelativeToolTip": "GeneratorTest2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T19:21:35.313Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GeneratorTest2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GeneratorTest2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:21:33.365Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "GeneratorTest2\\UserWindow.xaml",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\UserWindow.xaml",
+              "RelativeToolTip": "GeneratorTest2\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T19:26:18.612Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GeneratorTest2\\UserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\UserWindow.xaml.cs",
+              "RelativeToolTip": "GeneratorTest2\\UserWindow.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAIAwwFoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:29:28.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\EditPage.xaml.cs",
+              "RelativeDocumentMoniker": "GeneratorTest2\\EditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\EditPage.xaml.cs",
+              "RelativeToolTip": "GeneratorTest2\\EditPage.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:32:34.536Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\EditPage.xaml",
+              "RelativeDocumentMoniker": "GeneratorTest2\\EditPage.xaml",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\EditPage.xaml",
+              "RelativeToolTip": "GeneratorTest2\\EditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T19:26:45.451Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\Class1.cs",
+              "RelativeDocumentMoniker": "GeneratorTest2\\Class1.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\Class1.cs",
+              "RelativeToolTip": "GeneratorTest2\\Class1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:27:37.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TakeTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\TakeTestPage.xaml",
+              "RelativeDocumentMoniker": "GeneratorTest2\\TakeTestPage.xaml",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\TakeTestPage.xaml",
+              "RelativeToolTip": "GeneratorTest2\\TakeTestPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T19:27:29.656Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoidPage.xaml",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\VoidPage.xaml",
+              "RelativeDocumentMoniker": "GeneratorTest2\\VoidPage.xaml",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\VoidPage.xaml",
+              "RelativeToolTip": "GeneratorTest2\\VoidPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T19:27:15.561Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TakeTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\TakeTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "GeneratorTest2\\TakeTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\TakeTestPage.xaml.cs",
+              "RelativeToolTip": "GeneratorTest2\\TakeTestPage.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwDsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:34:22.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\App.xaml",
+              "RelativeDocumentMoniker": "GeneratorTest2\\App.xaml",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\GeneratorTest2\\GeneratorTest2\\App.xaml",
+              "RelativeToolTip": "GeneratorTest2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T19:22:28.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

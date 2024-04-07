@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <TestQuestion>
+      <Question>аааа?</Question>
+      <Description>....</Description>
+      <Option1>да</Option1>
+      <Option2>аааа(</Option2>
+      <Option3>не</Option3>
+      <CorrectAnswer>Option2</CorrectAnswer>
+    </TestQuestion>
+    <TestQuestion>
+      <Question>бббб</Question>
+      <Description>что</Description>
+      <Option1>что</Option1>
+      <Option2>ок</Option2>
+      <Option3>лан</Option3>
+      <CorrectAnswer>Option1</CorrectAnswer>
+    </TestQuestion>
+    <TestQuestion>
+      <Question>вввв</Question>
+      <Description>вцыца2</Description>
+      <Option1>устала</Option1>
+      <Option2>очень</Option2>
+      <Option3>помогите</Option3>
+      <CorrectAnswer>Option3</CorrectAnswer>
+    </TestQuestion>
+  </Questions>
+</Test>
