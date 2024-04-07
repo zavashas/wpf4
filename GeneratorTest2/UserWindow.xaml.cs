@@ -80,8 +80,6 @@ namespace GeneratorTest2
 
         private void Test_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
                 if (!File.Exists(testFilePath) || VoidFile(testFilePath))
                 {
                     PageFrame.Content = new VoidPage();
@@ -90,11 +88,6 @@ namespace GeneratorTest2
                 {
                     PageFrame.Content = new TakeTestPage(test.Questions);
                 }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Ошибка при чтении файла: {ex.Message}", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
-            }
         }
 
         private bool VoidFile(string filePath)
