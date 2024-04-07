@@ -31,6 +31,5 @@ namespace GeneratorTest2
             this.testFilePath = testFilePath;
             DataContext = test;
         }
-
     }
 }
