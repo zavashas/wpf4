@@ -32,13 +32,5 @@ namespace GeneratorTest2
             DataContext = test;
         }
 
-        private void SaveTest()
-        {
-            XmlSerializer serializer = new XmlSerializer(typeof(Test));
-            using (FileStream fs = new FileStream(testFilePath, FileMode.Create))
-            {
-                serializer.Serialize(fs, test);
-            }
-        }
     }
 }
