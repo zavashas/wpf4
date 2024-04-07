@@ -27,7 +27,6 @@ namespace GeneratorTest2
         {
             InitializeComponent();
             userWindow = new UserWindow(isEditor: false, testFilePath);
-
         }
 
         private void Test_Click(object sender, RoutedEventArgs e)
@@ -39,13 +38,6 @@ namespace GeneratorTest2
         private void Edit_Click(object sender, RoutedEventArgs e)
         {
             PasswordTextBox.Visibility = PasswordTextBox.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
-
-            if (userWindow != null)
-            {
-                userWindow.Close();
-                userWindow = null;
-            }
-
         }
 
         private void PasswordTextBox_TextChanged(object sender, TextChangedEventArgs e)
